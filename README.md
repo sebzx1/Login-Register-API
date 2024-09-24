@@ -6,8 +6,8 @@ Este proyecto es una aplicación web de gestión de usuarios construida con Node
 
 
 ## INSTALACION 
-- Se debe descargar el repositorio **https://github.com/sebzx1/Login-API.git**
-- **Usa el comando git clone https://github.com/sebzx1/Login-API.git** 
+- Se debe descargar el repositorio **https://github.com/sebzx1/Login-Register-API.git**
+- **Usa el comando git clone https://github.com/sebzx1/Login-Register-API.git** 
 #### *INSTALACION  DE TODAS LAS DEPENDENCIAS👇*
 - npm install
 
